@@ -66,7 +66,7 @@ CloudDataRedundancyRemovalSystem/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Cloud-Data-Redundancy-Removal-System.git
+git clone https://github.com/your-mohammadzunaid333/Cloud-Data-Redundancy-Removal-System.git
 ```
 
 ### 2. Open Project
