@@ -16,8 +16,9 @@ Users can:
 - Export records to CSV
 - Monitor database status
 
----
+## 📸 Project Screenshot
 
+![Cloud Data Redundancy Removal System](Screenshot%202026-06-29%20104455.png)
 ## ✨ Features
 
 - ✅ Add New Records
