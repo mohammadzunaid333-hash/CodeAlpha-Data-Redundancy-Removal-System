@@ -71,7 +71,7 @@ Cloud-Data-Redundancy-Removal-System/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/mohammadzunaid333-hash/-CLOUD-DATA-REDUDANCY-REMOVAL-SYSTEM.git
+https://github.com/mohammadzunaid333-hash/-CLOUD-DATA-REDUNDANCY-REMOVAL-SYSTEM.git
 ```
 
 ### 2. Open Project
